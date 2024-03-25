@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <RootNamespace>iPrintUtility</RootNamespace>
     <UseWPF>true</UseWPF>
     <AssemblyName>iPrintUtility</AssemblyName>
